@@ -1,7 +1,7 @@
 /*
 Libreria para el control de motores con diferentes puentes H
 Creada por Manuel Fernandez Uceira el 06/02/2025
-Ultima modificacion: 06/02/2025 12:47
+Ultima modificacion: 12/02/2025 13:54
 */
 
 #include <arduino.h>
