@@ -8,7 +8,7 @@ Ultima modificacion: 06/02/2025 12:47
 
 class l298N(){
     public:
-    l298N();
+    l298N;
     l298N(int EnableA, int EnableB, int IN1, int IN2, int In3, int In4){
         enableA = EnableA;
         enableB = EnableB;
